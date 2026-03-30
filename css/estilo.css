@@ -11,6 +11,7 @@ html {
 }
 p {
     text-indent: 40px;
+    first-letter: 2em;
 }
 figure {
     text-align: center;
