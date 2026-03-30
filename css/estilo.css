@@ -11,8 +11,10 @@ html {
 }
 p {
     text-indent: 40px;
-    first-letter: 2em;
 }
+p::firts-letter {
+    font-size: 2em;
+    color: rebeccapurple;
 figure {
     text-align: center;
     border-radius: 5px;
